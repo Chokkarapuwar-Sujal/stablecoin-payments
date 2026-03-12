@@ -138,7 +138,7 @@ stablecoin-payments/
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/<your-username>/stablecoin-payments.git
+git clone https://github.com/<Chokkarapuwar-Sujal>/stablecoin-payments.git
 cd stablecoin-payments
 ```
 
@@ -417,3 +417,4 @@ After submitting a payment:
 This project is licensed under the MIT License.
 
 See the `LICENSE` file for details.
+
